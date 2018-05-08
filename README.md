@@ -1,6 +1,6 @@
 # Evaluation_IJBA
 
-Those codes can be used to verify our single model's (ResNext152) performance on IJB-A.
+Those codes can be used to verify our single model's (ResNext152) performance on IJB-A with open and close protocols.
 
 We release IJBA Evaluation codes on all 10 splits for face identification and verification tasks with Template Adaptation(**mean coding for video frames**). You can reproduce our single model's (ResNext 152 trained on our own face dataset illustrated by our arXiv paper: **"A Good Practice Towards Top Performance of Face Recognition: Transferred Deep Feature Fusion"**) results based on score matrix given by
 the corresponding folders. The more detailed information about how to calculate scores, you can refer our [paper](https://arxiv.org/abs/1704.00438v2) . Due to the limitation of company, we can not provide ResNext 152 and SE-ResNext 101 models. We are very sorry. Moreover, all the features of IJBA data and Template Adaptation models will be released later(too many files need to be uploaded, so they will not come recently).

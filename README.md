@@ -25,4 +25,6 @@ Matlab R2016b or later version.
 ![](result_Beta_0_TA_verify.png)
 
 
-If those codes can help your work, please cite our paper **"A Good Practice Towards Top Performance of Face Recognition: Transferred Deep Feature Fusion"**.
+If those codes can help your work, please cite our paper **"A Good Practice Towards Top Performance of Face Recognition: Transferred Deep Feature Fusion"**. We are appreciate for your citation.
+
+Xiong, Lin, Jayashree Karlekar, Jian Zhao, Yi Cheng, Yan Xu, Jiashi Feng, Sugiri Pranata, and Shengmei Shen. "A good practice towards top performance of face recognition: Transferred deep feature fusion." arXiv preprint arXiv:1704.00438 (2017).
